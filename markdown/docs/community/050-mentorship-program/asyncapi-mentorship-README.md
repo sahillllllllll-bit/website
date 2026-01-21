@@ -20,7 +20,8 @@ The AsyncAPI Mentorship Program connects aspiring developers, technical writers,
 
 ## Program Statistics
 
-Our mentorship programs demonstrate strong impact with improving retention rates. For detailed statistics and success stories, visit our [Mentorship Programs Insights](./insights) page.
+Our mentorship programs demonstrate strong impact, including improved retention rates.
+ For detailed statistics and success stories, visit our [Mentorship Programs Insights](./insights) page.
 
 **Highlights:**
 - **50% overall retention rate** - Double the industry standard
@@ -32,9 +33,9 @@ Our mentorship programs demonstrate strong impact with improving retention rates
 
 | Year | Term | Status | Details |
 | ---- | ---- | ------ | ------- |
-| 2024 | Sept-May | Completed | [2024 Projects](./asyncapi-mentorship-2024-project-ideas.md) |
-| 2023 | Jan-Nov | Completed | [2023 Projects](./asyncapi-mentorship-2023-project-ideas.md) |
-| 2022 | Jan-Nov | Completed | [2022 Projects](./asyncapi-mentorship-2022-project-ideas.md) |
+| 2024 | Sept-May | Completed | [2024 Projects](./asyncapi-mentorship-2024-project-ideas) |
+| 2023 | Jan-Nov | Completed | [2023 Projects](./asyncapi-mentorship-2023-project-ideas) |
+| 2022 | Jan-Nov | Completed | [2022 Projects](./asyncapi-mentorship-2022-project-ideas) |
 
 ## Program Leadership
 
@@ -43,7 +44,9 @@ Our mentorship programs demonstrate strong impact with improving retention rates
 - **Thulisile Sibanda** ([@thulieblack](https://github.com/thulieblack)): [LinkedIn](https://www.linkedin.com/in/v-thulisile-sibanda/)
 
 ### Contact
-- **Slack**: Join our [AsyncAPI Slack workspace](https://asyncapi.com/slack-invite) and visit `#09_mentorships`
+- **Slack**: Join our [AsyncAPI Slack workspace](https://asyncapi.com/slack-invite) and visit the [`#09_mentorships`](https://app.slack.com/client/T34F2JRQU/C023A7K5M3N) 
+
+
 - **GitHub Discussions**: [Community Discussions](https://github.com/asyncapi/community/discussions)
 
 ## Key Definitions
@@ -76,8 +79,8 @@ To participate in the AsyncAPI Mentorship Program, you must:
 ### How to Apply
 
 1. **Verify Eligibility**: Ensure you meet all eligibility requirements
-2. **Review Projects**: Browse the [Ideas List](./asyncapi-mentorship-2025-README) for available projects
-3. **Connect with Mentors**: Join our Slack and discuss project ideas in `#09_mentorships`
+2. **Review Projects**: Browse the [Ideas List](./asyncapi-mentorship-2024-project-ideas) for available projects
+3. **Connect with Mentors**: Join our Slack and discuss project ideas in [`#09_mentorships`](https://app.slack.com/client/T34F2JRQU/C023A7K5M3N) 
 4. **Submit Proposal**: Submit your Project Proposal to the project mentor during the application period
 5. **Wait for Acceptance**: Accepted proposals will be announced on the Program Slack channel and GitHub Discussions
 
@@ -95,7 +98,7 @@ Once accepted, each mentee must:
 - Participate in the **Community Bonding Period**
 - Work diligently to complete the project as outlined
 - Follow coding and documentation standards set by the organization
-- Actively participate in the community and adhere to the [Code of Conduct](https://github.com/asyncapi/.github/blob/master/CODE_OF_CONDUCT.md)
+- Actively participate in the community and adhere to the [Code of Conduct](https://github.com/asyncapi/.github/blob/master/CODE_OF_CONDUCT.)
 - Provide **Evaluation of their Mentor** at designated periods
 - Publish project code in a publicly accessible location under an [OSI-approved license](http://www.opensource.org/licenses/alphabetical)
 - Submit **Final Project Materials** by the deadline
@@ -198,7 +201,7 @@ AsyncAPI may suspend, cancel, or modify the program structure if:
 ### Dispute Resolution
 
 For questions, concerns, or disputes:
-1. Contact Program Administrators via Slack (`#09_mentorships`)
+1. Contact Program Administrators via Slack ([`#09_mentorships`](https://app.slack.com/client/T34F2JRQU/C023A7K5M3N) )
 2. Open a discussion in [GitHub Discussions](https://github.com/asyncapi/community/discussions)
 3. Program Administrator decisions are final
 
